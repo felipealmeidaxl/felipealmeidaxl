@@ -30,6 +30,8 @@ Feito com React Native, Expo, TypeScript e Supabase (PostgreSQL com Row Level Se
 
 Feito com JavaScript, Supabase (PostgreSQL com Row Level Security, Auth e Edge Functions em TypeScript) e Stripe. *O código deste projeto é privado.*
 
+🏷️ **À venda no SideProjectors:** [ver anúncio do Ramo](https://www.sideprojectors.com/project/113861/ramo-personal-finance-saas-brazil)
+
 ---
 
 ### 🛠️ Tecnologias
