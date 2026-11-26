@@ -22,6 +22,8 @@ Comecei na área financeira — faturamento, conciliação bancária e notas fis
 
 Feito com React Native, Expo, TypeScript e Supabase (PostgreSQL com Row Level Security). *O código deste projeto é privado.*
 
+▶️ **Demonstração:** [vídeo no YouTube](https://youtube.com/shorts/-ljmUu6PFJo) · 🏷️ **À venda no SideProjectors:** [ver anúncio do IronX](https://www.sideprojectors.com/project/113517/ironx-fitness-social-network-app)
+
 #### Ramo
 
 ![Ramo — SaaS de finanças pessoais](ramo-vitrine.png)
